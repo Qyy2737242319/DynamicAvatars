@@ -18,7 +18,9 @@ This repository demonstrates our work, DynamicAvatars. Based on GaussianAvatars 
   <img src="./demo/306/Hulk.png" width="350" alt="306_edited">
   <img src="./demo/074/origin.png" width="350" title="074_origin">
   <img src="./demo/074/clown.png" width="350" alt="074_edited">
+
 </p>
+
 ## Installation
 
 Clone our repository and create a conda environment to begin.
