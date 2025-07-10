@@ -1,4 +1,4 @@
-This repository demonstrates our work, DynamicAvatars. Based on GaussianAvatars and GaussianEditor, DynamicAvatars has the ability to edit a dynamic 3D Gaussian Splatting facial avatars by text prompt in 15 minutes.
+This repository demonstrates our work, DynamicAvatars. Based on GaussianAvatars and GaussianEditor, DynamicAvatars has the ability to edit a dynamic 3D Gaussian Splatting facial avatars by text prompt in 25 minutes.
 
 
 ## Experiment Results
