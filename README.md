@@ -7,19 +7,10 @@ This repository demonstrates our work, DynamicAvatars. Based on GaussianAvatars 
   <video width="320" height="240" controls><source src="./demo/218/origin.mp4" type="video/mp4"></video>
   <video width="320" height="240" controls><source src="./demo/218/middle-aged%20adult.mp4" type="video/mp4"></video>
 </p>
-<p align="center">
-  <img src="./demo/253/original.png" width="350" title="253_origin">
-  <img src="./demo/253/bearded.png" width="350" alt="253_edited">
-  <img src="./demo/302/origin.png" width="350" title="302_origin">
-  <img src="./demo/302/egyptian%20sculpture.png" width="350" alt="302_edited">
-</p>
-<p align="center">
-  <img src="./demo/306/origin.png" width="350" title="306_origin">
-  <img src="./demo/306/Hulk.png" width="350" alt="306_edited">
-  <img src="./demo/074/origin.png" width="350" title="074_origin">
-  <img src="./demo/074/clown.png" width="350" alt="074_edited">
 
-</p>
+![image](./demo/single.png)
+
+![image](./demo/multi.png)
 
 ## Installation
 
